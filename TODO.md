@@ -25,6 +25,8 @@ A list of TODOs is maintained for now, this is a list of things that people have
 * Cloud architecture
 * How to work with different types of databases / no database
 * Building all in one web application
+* Prototyping
+* Heroku
 * Node.js
 * Understanding frameworks
 	* React
