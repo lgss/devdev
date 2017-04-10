@@ -21,7 +21,7 @@ app.use((req,res,next) => {
 	next();
 }); // log specific request objects for clarity when testing
 
-// routes (found in app/routes.js)
+// routes (found in routes.js)
 if (typeof (routes) !== 'function') {
   console.log(routes.bind)
   console.log('Warning: the use of bind in routes is deprecated.')
