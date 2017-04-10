@@ -19,7 +19,7 @@ app.use((req,res,next) => {
 	
 	console.log(JSON.stringify(log, null, 2));
 	next();
-});
+}); // log specific request objects for clarity when testing
 
 // routes (found in app/routes.js)
 if (typeof (routes) !== 'function') {
