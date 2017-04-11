@@ -13,4 +13,4 @@ This repo is set up to help with DevDev work, a home for tools and ideas to help
 
 A [list of TODOs](TODO.md) is maintained for now, this is a list of things that people have asked about and want to go through.
 
-If you have something you want to add to the list, an idea you have or an answer to something we've not covered yet, follow the [contribution guide]()
+If you have something you want to add to the list, an idea you have or an answer to something we've not covered yet, follow the [contribution guide](CONTRIBUTING.md)
