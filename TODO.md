@@ -1,36 +1,60 @@
-# DevDev
+# Stuff to cover
 
-We like to learn, especially from each other.
-
-DevDev is an LGSS pathway for developers to learn from each other, develop new skills and build things together so that when we work with others, our skills are already razor sharp.
-
-
-## Stuff to cover
-
-A list of TODOs is maintained for now, this is a list of things that people have asked about and want to go through
-
-## Stuff to cover
-
+## General tech
 * Understanding traffic
 	* HTTP(S)
 	* Methods POST / GET 
-	* SSL
+	* SSL / TLS
+	* DNS
 * Correct Application / Web Application architecture
 	* Is there one?
 	* What patterns are there
+
+
+
+## Development
 * Best practise for coding
+	* development cycle
+	* version control
+	* code styles (tabs vs spaces?!)
 * Creating web service and API's
 	* What's the difference between a web service and an API?
-* Authentication - oAuth
-* Cloud architecture
+	* auth / keys
+* Authentication
+	* HTTP
+	* oAuth
+	* SAML (claims based auth)
 * How to work with different types of databases / no database
 * Building all in one web application
 * Prototyping
-* Heroku
 * Node.js
 * Understanding frameworks
-	* React
-	* Knockout
+	* React / Knockout
 	* .NET MVC
 	* Rails / Sinatra
 	* Express
+* Content Management Systems
+
+## Toolchain / DevOps
+* Cloud
+	* Architecture
+	* Tech (AWS / Azure - what's the difference, how are they useful?)
+* DevOps
+	* Measurements
+	* Testing
+	* Automation
+* Testing
+* CI / CD
+* Deployment
+
+## Support
+* Common problems (turning it off and on again)
+* Debugging / diagnosing problems
+* Upgrades / patching
+* Web servers
+* Downtime and comms
+* Networks
+* Firewalls
+* Load Balancers
+
+
