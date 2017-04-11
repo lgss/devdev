@@ -2,6 +2,12 @@
 
 Use this mock web service to test different types of requests and mock up a web service quickly with minimal fuss.
 
+## Requirements
+
+* node (v4+)
+* npm
+* a healthy dose of optimism
+
 ## Run the service
 
 To bring in dependencies run:
