@@ -1,8 +1,8 @@
 # Stuff to cover
 
 ## General
-* Understanding traffic
-	* ~~~HTTP(S)
+* ~~~Understanding traffic
+	* HTTP(S)
 	* Methods POST / GET 
 	* SSL / TLS
 	* DNS
