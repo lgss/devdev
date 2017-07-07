@@ -2,12 +2,12 @@
 
 ## General
 * Understanding traffic
-	* HTTP(S)
+	* ~~~HTTP(S)
 	* Methods POST / GET 
 	* SSL / TLS
 	* DNS
 	* IPs, Ports and addressing
-	* Web servers
+	* Web servers~~~
 
 * Correct Application / Web Application architecture
 	* Is there one?
@@ -19,9 +19,9 @@
 
 * Best practise for coding
 	* Development cycle
-	* Version control (Git, SVN)
-	* Code styles (tabs vs spaces?!)
-* Creating web service and API's
+	* ~~~Version control (Git, SVN)~~~
+	* ~~~Code styles (tabs vs spaces?!)~~~
+* ~~~Creating web service and API's
 	* What's the difference between a web service and an API?
 	* SOAP
 	* REST
@@ -29,7 +29,7 @@
 * Authentication
 	* HTTP
 	* oAuth
-	* SAML (claims based auth)
+	* SAML (claims based auth)~~~
 
 ### Front-end
 
@@ -50,7 +50,7 @@
 
 ### Back-end
 
-* Languages
+* ~~~Languages
 	* C#
 	* Java
 	* JavaScript (Node.js)
@@ -65,7 +65,7 @@
 * Databases
 	* Relational (SQL/MySQL/PostSQL)
 	* NoSQL (DynamoDB/MongoDB)
-	* NoDB
+	* NoDB~~~
 * Testing
 * Security
 * Building all in one web application
