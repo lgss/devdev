@@ -1,13 +1,13 @@
 # Stuff to cover
 
 ## General
-* ~~~Understanding traffic
+* Understanding traffic
 	* HTTP(S)
 	* Methods POST / GET 
 	* SSL / TLS
 	* DNS
 	* IPs, Ports and addressing
-	* Web servers~~~
+	* Web servers
 
 * Correct Application / Web Application architecture
 	* Is there one?
